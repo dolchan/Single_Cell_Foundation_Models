@@ -1,4 +1,4 @@
-# RNAseq_Foundation_Models
+# Single Cell Foundation Models
 
 ## Papers
 - A large-scale foundation model for bulk transcriptomes (2025)
