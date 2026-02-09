@@ -1,6 +1,6 @@
 # Single Cell Foundation Models
 
-## Papers
+## Papers and Tools
 - A large-scale foundation model for bulk transcriptomes (2025)
   - https://www.biorxiv.org/content/10.1101/2025.06.11.659222v1
 
